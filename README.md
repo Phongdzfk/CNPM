@@ -1,12 +1,29 @@
-# Dormitory Management System
+# Exporting management
 
-A desktop-app to manage export process of a store.
+## Application Overview
 
-## Description
-
-This project is a exporting management system to help store staff and sub-agent manage said process easier and more efficient.  
+A exporting management application for a store built using Java and Swing, following the MVC architecture.
 
 ## Technologies Used
 
--Java
--Java Swing
+- **Programming Language**: Java
+- **Frameworks & Libraries**: Java Swing, Serialization
+- **Development Tools**: IntelliJ IDEA / Eclipse
+
+## Features
+
+### Sub-agent management
+
+### Item in stock management
+
+### Export bill management
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://https://github.com/Phongdzfk/CNPM.git
+   ```
+2. Open with IntelliJ IDEA or Eclipse.
+3. Change name and password of your database in DAO file.
+4. Run `Login.java` to start the application.
